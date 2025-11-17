@@ -1,0 +1,1 @@
+This  is an AI Document Intelligence Chatbot, it accepts PDF documents and answers any user queries. This is done using n8n which is a low-code platform. It is used for creating custom automations and ai chatbots.
